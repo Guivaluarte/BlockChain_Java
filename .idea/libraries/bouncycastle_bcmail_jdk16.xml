@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="bouncycastle.bcmail.jdk16" type="repository">
+    <properties maven-id="bouncycastle:bcmail-jdk16:140" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/bcmail-jdk16-140.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bcprov-jdk16-140.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
